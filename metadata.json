@@ -1,0 +1,7 @@
+{
+  "name": "PakResto ERP - IMS",
+  "description": "Professional F&B Inventory Management System tailored for the Pakistani market, featuring recipe costing, FBR compliance, and FIFO stock tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
